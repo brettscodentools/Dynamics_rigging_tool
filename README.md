@@ -34,7 +34,7 @@
 ![Phase One](docs/easy_dynamics_add_solvers.png)
 
 ### Phase 3: Bake the Animation based on the time slider's range:
-1. A. Bake the animation and export an FBX package including the mesh
-    B. If this is for an existing rigged asset, bake and export just the animation as an FBX file.
+1. *A*. Bake the animation and export an FBX package including the mesh
+    *B*. If this is for an existing rigged asset, bake and export just the animation as an FBX file.
 
 ![Phase One](docs/easy_dynamics_final_result.png)
