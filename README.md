@@ -13,6 +13,10 @@
 * PyQt5
 * Maya.cmds
 
+## Main UI window :
+
+![UI Wireframe](docs/easy_dynamics_ui.png)
+
 ## How to use:
 
 ### Phase 1: Rig the mesh(s):
@@ -35,10 +39,3 @@
     B. If this is for an existing rigged asset, bake and export just the animation as an FBX file.
 
 ![Phase One](docs/easy_dynamics_final_result.png)
-
-
-## Main UI window wireframe:
-
-    Quick wireframe design of the main dialog window for the tool, made in QtDesigner:
-
-![UI Wireframe](docs/easy_dynamics_ui.png)
