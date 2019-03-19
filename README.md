@@ -14,7 +14,6 @@
 * Maya.cmds
 
 ## Main UI window :
-
 ![UI Wireframe](docs/easy_dynamics_ui.png)
 
 ## How to use:
